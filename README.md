@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a Computer Science student passionate about building reliable and efficient software.  
+I enjoy learning new technologies and improving my skills through hands-on projects.
 
 <!--
 **devdkay/devdkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
